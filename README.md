@@ -6,4 +6,3 @@ NEw line from git
 make some changes after ssh
 #fixed  the conflicts
 testing again
-
